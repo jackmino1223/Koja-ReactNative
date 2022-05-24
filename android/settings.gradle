@@ -1,0 +1,15 @@
+rootProject.name = 'koja'
+include ':react-native-restart'
+project(':react-native-restart').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-restart/android')
+include ':react-native-localization'
+project(':react-native-localization').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-localization/android')
+include ':react-native-google-api-availability-bridge'
+project(':react-native-google-api-availability-bridge').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-google-api-availability-bridge/android')
+include ':react-native-picker'
+project(':react-native-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-picker/android')
+include ':react-native-default-preference'
+project(':react-native-default-preference').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-default-preference/android')
+include ':react-native-maps'
+project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/lib/android')
+
+include ':app'

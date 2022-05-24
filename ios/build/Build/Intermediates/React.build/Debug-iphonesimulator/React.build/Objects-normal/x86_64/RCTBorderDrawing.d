@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/pedro/Documents/Temp/koja/node_modules/react-native/React/Views/RCTBorderDrawing.m \
+  /Users/pedro/Documents/Temp/koja/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/pedro/Documents/Temp/koja/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/pedro/Documents/Temp/koja/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/pedro/Documents/Temp/koja/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/pedro/Documents/Temp/koja/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/pedro/Documents/Temp/koja/node_modules/react-native/React/Base/RCTUtils.h
